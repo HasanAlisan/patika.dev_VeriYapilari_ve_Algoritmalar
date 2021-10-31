@@ -1,1 +1,1 @@
-# patika.dev_VeriYapilariveAlgoritmalar
+# patika.dev_VeriYapilari_ve_Algoritmalar
